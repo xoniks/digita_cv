@@ -17,7 +17,7 @@ Data Scientist specializing in spatial-sensor data and data-driven decision-maki
 """
 EMAIL = "egzonbaruti@yahoo.com"
 SOCIAL_MEDIA = {
-    "LinkedIn: https://www.linkedin.com/in/egezonbaruti",
+    "LinkedIn: https://www.linkedin.com/in/egezonbaruti":"https://www.linkedin.com/in/egezonbaruti",
     # "GitHub": "https://github.com",
     # "Twitter": "https://twitter.com",
 }
