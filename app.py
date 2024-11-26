@@ -17,9 +17,9 @@ Data Scientist specializing in spatial-sensor data and data-driven decision-maki
 """
 EMAIL = "egzonbaruti@yahoo.com"
 SOCIAL_MEDIA = {
-    "LinkedIn": "https://linkedin.com",
-    "GitHub": "https://github.com",
-    "Twitter": "https://twitter.com",
+    "LinkedIn": "https://www.linkedin.com/in/egezonbaruti",
+    # "GitHub": "https://github.com",
+    # "Twitter": "https://twitter.com",
 }
 
 st.set_page_config(page_title=PAGE_TITLE, page_icon=PAGE_ICON)
@@ -162,8 +162,8 @@ st.write(
 )
 
 # --- Projects & Accomplishments ---
-st.write("\n")
-st.subheader("Projects & Accomplishments")
-st.write("---")
-for project, link in SOCIAL_MEDIA.items():
-    st.write(f"[{project}]({link})")
+# st.write("\n")
+# st.subheader("Projects & Accomplishments")
+# st.write("---")
+# for project, link in SOCIAL_MEDIA.items():
+#     st.write(f"[{project}]({link})")
