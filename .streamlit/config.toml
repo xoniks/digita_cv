@@ -1,12 +1,12 @@
 [theme]
-# Primary accent color for interactive elements.
-primaryColor = "#d33682"
+# A dark-blue primary accent color for interactive elements
+primaryColor = "#0d47a1"
 
-# Background color for the main content area.
-backgroundColor = "#002b36"
+# A light "white-blue" background color for the main content area
+backgroundColor = "#e6f2ff"
 
-# Background color used for the sidebar and most interactive widgets.
-secondaryBackgroundColor = "#586e75"
+# A lighter background color for the sidebar and other components
+secondaryBackgroundColor = "#ffffff"
 
-# Color used for almost all text.
-textColor = "#fff"
+# A darker text color for better contrast against the light background
+textColor = "#000000"
